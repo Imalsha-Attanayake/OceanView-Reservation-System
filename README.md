@@ -116,3 +116,13 @@ Version 1.0 – Initial project setup and database creation
 Version 1.1 – REST API implementation for reservation management  
 Version 1.2 – Java Swing GUI implementation  
 Version 1.3 – Testing and documentation improvements
+
+## Project Components
+
+The system consists of the following main components:
+
+- RESTful Web Services for reservation operations
+- Java Swing based client application
+- MySQL database for data storage
+- JUnit testing for validating functionality
+- Postman API testing
