@@ -108,7 +108,7 @@ Bill calculation
 
 This project is maintained using GitHub for version control and collaboration.
 
-Repository Link:
+Repository Link: https://github.com/Imalsha-Attanayake/OceanView-Reservation-System
 
 ## Development Versions
 
@@ -126,3 +126,12 @@ The system consists of the following main components:
 - MySQL database for data storage
 - JUnit testing for validating functionality
 - Postman API testing
+
+## Author
+
+Developed by:
+Imalsha Attanayake
+
+Course:
+Software Engineering
+
