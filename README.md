@@ -109,3 +109,10 @@ Bill calculation
 This project is maintained using GitHub for version control and collaboration.
 
 Repository Link:
+
+## Development Versions
+
+Version 1.0 – Initial project setup and database creation  
+Version 1.1 – REST API implementation for reservation management  
+Version 1.2 – Java Swing GUI implementation  
+Version 1.3 – Testing and documentation improvements
